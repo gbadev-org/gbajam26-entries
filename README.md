@@ -3,7 +3,7 @@ GBA Jam 2026 entriees
 
 ## Downloads
 
-- Full releases compilation (includes ROMs, screenshots, sources, ..): **TODO**
+- [Full releases compilation (includes ROMs, screenshots, sources, ..)](https://github.com/gbadev-org/gbajam26-entries/archive/refs/heads/main.zip)
 
 ## Games
 
